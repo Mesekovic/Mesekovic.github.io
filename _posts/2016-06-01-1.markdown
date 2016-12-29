@@ -1,17 +1,12 @@
 ---
-layout:     keynote
+layout:     post
 title:      "orz"
 subtitle:   "ORZ2"
 date:       2016-11-20
 author:     "jskyzero"
-header-img: "img/ClariS-2.jpg"
+header-img: "img/home.jpg"
 tags:
     - orz
 ---
 
-
-> 下滑这里查看更多内容
-
-
-
-aegfg
+= = 大概这样就是完成了的意思
