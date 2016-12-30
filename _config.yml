@@ -71,7 +71,7 @@ duoshuo_share: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "忙忙碌碌,碌碌无为."
+sidebar-about-description: "Student"
 sidebar-avatar: /img/Mesekovic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
