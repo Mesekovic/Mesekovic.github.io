@@ -1,9 +1,9 @@
 # Site settings
 title: Mesekovic-blog
-SEOTitle: Mesekovic-blog | M的博客
+SEOTitle: Mesekovic-blog | Created by Jskyzero
 header-img: img/home.jpg
 email: Mesekovic@outlook.com
-description: "Me"
+description: "Mesekovic"
 keyword: "@Mesekovic, M的博客, Mesekovic-blog, 博客, 个人网站"
 url: "https://Mesekovic.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
