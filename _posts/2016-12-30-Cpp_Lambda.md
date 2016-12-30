@@ -2,7 +2,7 @@
 layout:     post
 title:      "Cpp_Lambda"
 subtitle:   "Lambda函数（since C++11）"
-date:       2016-12-30
+date:       2016-12-31
 author:     "jskyzero"
 header-img: "img/JK.jpg"
 tags:
