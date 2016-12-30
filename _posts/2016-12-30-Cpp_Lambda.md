@@ -4,7 +4,7 @@ title:      "Cpp_Lambda"
 subtitle:   "Lambda函数（since C++11）"
 date:       2016-12-31
 author:     "jskyzero"
-header-img: "img/JK.jpg"
+header-img: "img/bg12.jpg"
 tags:
     - C++
     - 学科
