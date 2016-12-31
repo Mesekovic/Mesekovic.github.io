@@ -4,7 +4,7 @@ SEOTitle: Mesekovic-blog | Created by Jskyzero
 header-img: img/home.jpg
 email: Mesekovic@outlook.com
 description: "Mesekovic"
-keyword: "@Mesekovic, M的博客, Mesekovic-blog, 博客, 个人网站"
+keyword: "@Mesekovic, Mesekovic-blog, 博客, 个人网站"
 url: "https://Mesekovic.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -71,7 +71,7 @@ duoshuo_share: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Student"
+sidebar-about-description: "不求甚解"
 sidebar-avatar: /img/Mesekovic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
