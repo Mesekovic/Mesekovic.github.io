@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      "Special Thanks"
-subtitle:   "This post is written to show the great appreciation to Mr.jskyzero who maked a great contribution to this blog."
+subtitle:   "This post is written to show my great appreciation to Mr.jskyzero who maked a great contribution to this blog."
 date:       2016-12-31
 author:     "Radosav Mesekovic"
 header-img: "img/bg1.jpg"
 tags:
     - Thanks
-    - Jskyzero
+    - jskyzero
 
 ---
 
