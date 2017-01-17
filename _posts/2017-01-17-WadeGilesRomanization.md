@@ -46,7 +46,8 @@ tags:
 
 
 塞音与擦音
-</table>    
+
+<table>    
    <tr>    
         <th>IPA</th>
         <th>[p]</th>
@@ -77,36 +78,36 @@ tags:
         <th>hsi</th>
         <th>h</th>
     </tr>
-    <tr>
+    <tr>   
         <th>汉语拼音（中国大陆）</th>
         <th>b</th>
         <th>p</th>
-        <th>d</th>
-        <th>t</th>
-        <th>g</th>
-        <th>k</th>
-        <th>f</th>
-        <th>s</th>
-        <th>sh</th>
-        <th>r</th>
-        <th>x</th>
+        <th>d</th>    
+        <th>t</th>    
+        <th>g</th>    
+        <th>k</th>    
+        <th>f</th>    
+        <th>s</th>    
+        <th>sh</th>    
+        <th>r</th>    
+        <th>x</th>    
         <th>h</th>
     </tr>
     <tr>
-        <th>通用拼音（台湾）</th>
-        <th>b</th>
-        <th>p</th>
-        <th>d</th>
-        <th>t</th>
-        <th>g</th>
-        <th>k</th>
-        <th>f</th>
-        <th>s</th>
-        <th>sh</th>
-        <th>r</th>
-        <th>si</th>
-        <th>h</th>
-    </tr>
+    <th>通用拼音（台湾）</th>
+    <th>b</th>
+    <th>p</th>
+    <th>d</th>
+    <th>t</th>
+    <th>g</th>
+    <th>k</th>
+    <th>f</th>
+    <th>s</th>
+    <th>sh</th>
+    <th>r</th>
+    <th>si</th>
+    <th>h</th>
+     </tr>
 </table>
 
 
