@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "威妥玛-翟理斯式汉语（官话）拼音方案及其与汉语拼音、通用拼音之对照整理"
-subtitle:   ""
+subtitle:   "The differences among the Wade-Giles Romanization, Pinyin and Tongyong Pinyin"
 date:       2017-01-17
 author:     "Radosav Mesekovic"
 header-img: "img/bg2.jpg"
@@ -13,17 +13,14 @@ tags:
     
 ---
 
+辅音（韵母）塞音与边音 
 
-<br> 
-<br> 
-辅音（韵母）
-</p>
- 塞音与边音
-        <table> 
-    <tbody><tr><th>IPA</th>
-        <th>[m]</th>
-        <th>[n]</th>
-        <th>[l]</th>
+<table> 
+   <tr>
+       <th>IPA</th>
+       <th>[m]</th>
+       <th>[n]</th>
+       <th>[l]</th>
     </tr>
     <tr>
         <th>威妥玛拼音</th>
@@ -43,13 +40,15 @@ tags:
         <th>n</th>
         <th>l</th>
     </tr>
-</tbody></table> 
+</table> 
 
 
 
 
-<br>塞音与擦音
-        <table>    <tbody><tr><th>IPA</th>
+塞音与擦音
+</table>    
+   <tr>    
+        <th>IPA</th>
         <th>[p]</th>
         <th>[pʰ]</th>
         <th>[t]</th>
@@ -108,11 +107,13 @@ tags:
         <th>si</th>
         <th>h</th>
     </tr>
-</tbody></table>
+</table>
 
 
-<br>塞擦音
-        <table>    <tbody><tr><th>IPA</th>
+塞擦音
+<table>  
+    <tr>
+        <th>IPA</th>
         <th>[ʦ]</th>
         <th>[ʈʂ]</th>
         <th>[ʨ]</th>
@@ -147,10 +148,8 @@ tags:
         <th>ch</th>
         <th>ci</th>
     </tr>
-</tbody></table>
+</table>
 
-<br> 
-<br> 
 
 
 元音（声母）
