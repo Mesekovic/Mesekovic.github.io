@@ -13,155 +13,182 @@ tags:
     
 ---
 
-辅音（韵母）
-<br>
-<br>
-<br>
+# 辅音（韵母）
 
-塞音与边音 
+1. 塞音与边音 
 <table> 
    <tr>
-       <th>IPA</th>
-       <th>[m]</th>
-       <th>[n]</th>
-       <th>[l]</th>
+       <td>IPA</td>
+       <td>[m]</td>
+       <td>[n]</td>
+       <td>[l]</td>
     </tr>
     <tr>
-        <th>威妥玛拼音</th>
-        <th>m</th>
-        <th>n</th>
-        <th>l</th>
+        <td>威妥玛拼音</td>
+        <td>m</td>
+        <td>n</td>
+        <td>l</td>
     </tr>
     <tr>
-        <th>汉语拼音（中国大陆）</th>
-        <th>m</th>
-        <th>n</th>
-        <th>l</th>
+        <td>汉语拼音（中国大陆）</td>
+        <td>m</td>
+        <td>n</td>
+        <td>l</td>
     </tr>
     <tr>
-        <th>通用拼音（台湾）</th>
-        <th>m</th>
-        <th>n</th>
-        <th>l</th>
+        <td>通用拼音（台湾）</td>
+        <td>m</td>
+        <td>n</td>
+        <td>l</td>
     </tr>
 </table> 
 
 
-
-
-塞音与擦音
+2. 塞音与擦音
 <table>    
    <tr>    
-        <th>IPA</th>
-        <th>[p]</th>
-        <th>[pʰ]</th>
-        <th>[t]</th>
-        <th>[tʰ]</th>
-        <th>[k]</th>
-        <th>[kʰ]</th>
-        <th>[f]</th>
-        <th>[s]</th>
-        <th>[ʂ]</th>
-        <th>[ʐ]</th>
-        <th>[ɕ]</th>
-        <th>[x]</th>
+        <td>IPA</td>
+        <td>[p]</td>
+        <td>[pʰ]</td>
+        <td>[t]</td>
+        <td>[tʰ]</td>
+        <td>[k]</td>
+        <td>[kʰ]</td>
+        <td>[f]</td>
+        <td>[s]</td>
+        <td>[ʂ]</td>
+        <td>[ʐ]</td>
+        <td>[ɕ]</td>
+        <td>[x]</td>
     </tr>
     <tr>
-        <th>威妥玛拼音</th>
-        <th>p</th>
-        <th>p'</th>
-        <th>t</th>
-        <th>t'</th>
-        <th>k</th>
-        <th>k'</th>
-        <th>f</th>
-        <th>s</th>
-        <th>sh</th>
-        <th>j</th>
-        <th>hsi</th>
-        <th>h</th>
+        <td>威妥玛拼音</td>
+        <td>p</td>
+        <td>p'</td>
+        <td>t</td>
+        <td>t'</td>
+        <td>k</td>
+        <td>k'</td>
+        <td>f</td>
+        <td>s</td>
+        <td>sh</td>
+        <td>j</td>
+        <td>hsi</td>
+        <td>h</td>
     </tr>
     <tr>   
-        <th>汉语拼音（中国大陆）</th>
-        <th>b</th>
-        <th>p</th>
-        <th>d</th>    
-        <th>t</th>    
-        <th>g</th>    
-        <th>k</th>    
-        <th>f</th>    
-        <th>s</th>    
-        <th>sh</th>    
-        <th>r</th>    
-        <th>x</th>    
-        <th>h</th>
+        <td>汉语拼音（中国大陆）</td>
+        <td>b</td>
+        <td>p</td>
+        <td>d</td>    
+        <td>t</td>    
+        <td>g</td>    
+        <td>k</td>    
+        <td>f</td>    
+        <td>s</td>    
+        <td>sh</td>    
+        <td>r</td>    
+        <td>x</td>    
+        <td>h</td>
     </tr>
     <tr>
-    <th>通用拼音（台湾）</th>
-    <th>b</th>
-    <th>p</th>
-    <th>d</th>
-    <th>t</th>
-    <th>g</th>
-    <th>k</th>
-    <th>f</th>
-    <th>s</th>
-    <th>sh</th>
-    <th>r</th>
-    <th>si</th>
-    <th>h</th>
+    <td>通用拼音（台湾）</td>
+    <td>b</td>
+    <td>p</td>
+    <td>d</td>
+    <td>t</td>
+    <td>g</td>
+    <td>k</td>
+    <td>f</td>
+    <td>s</td>
+    <td>sh</td>
+    <td>r</td>
+    <td>si</td>
+    <td>h</td>
      </tr>
 </table>
 
 
-塞擦音
+3. 塞擦音
 <table>  
     <tr>
-        <th>IPA</th>
-        <th>[ʦ]</th>
-        <th>[ʈʂ]</th>
-        <th>[ʨ]</th>
-        <th>[ʦʰ]</th>
-        <th>[ʈʂʰ]</th>
-        <th>[ʨʰ]</th>
+        <td>IPA</td>
+        <td>[ʦ]</td>
+        <td>[ʈʂ]</td>
+        <td>[ʨ]</td>
+        <td>[ʦʰ]</td>
+        <td>[ʈʂʰ]</td>
+        <td>[ʨʰ]</td>
     </tr>
     <tr>
-        <th>威妥玛拼音</th>
-        <th>ts</th>
-        <th>ch</th>
-        <th>chi</th>
-        <th>ts'</th>
-        <th>ch'</th>
-        <th>ch'i</th>
+        <td>威妥玛拼音</td>
+        <td>ts</td>
+        <td>ch</td>
+        <td>chi</td>
+        <td>ts'</td>
+        <td>ch'</td>
+        <td>ch'i</td>
     </tr>
     <tr>
-        <th>汉语拼音（中国大陆）</th>
-        <th>z</th>
-        <th>zh</th>
-        <th>j</th>
-        <th>c</th>
-        <th>ch</th>
-        <th>q</th>
+        <td>汉语拼音（中国大陆）</td>
+        <td>z</td>
+        <td>zh</td>
+        <td>j</td>
+        <td>c</td>
+        <td>ch</td>
+        <td>q</td>
     </tr>
     <tr>
-        <th>通用拼音（台湾）</th>
-        <th>z</th>
-        <th>jh</th>
-        <th>ji</th>
-        <th>c</th>
-        <th>ch</th>
-        <th>ci</th>
+        <td>通用拼音（台湾）</td>
+        <td>z</td>
+        <td>jh</td>
+        <td>ji</td>
+        <td>c</td>
+        <td>ch</td>
+        <td>ci</td>
     </tr>
 </table>
 
 
 
-元音（声母）
-占坑
+## 元音（声母）
 
-
-
-
-
-
-
+1. 基本元音
+<table>
+   <tr>
+      <td>IPA</td>
+      <td>[ä]</td>
+      <td>[ɔ]</td>
+      <td>[ɛ]</td>
+      <td>[ɯʌ]</td>
+      <td>[i]</td>
+      <td>[y]</td>
+   </tr>
+   <tr>
+      <td>威妥玛拼音</td>
+      <td>a</td>
+      <td>o</td>
+      <td>eh</td>
+      <td>ê/o</td>
+      <td>i</td>
+      <td>ü</td>
+   </tr>
+   <tr>
+      <td>汉语拼音（中国大陆）</td>
+      <td>a</td>
+      <td>o</td>
+      <td>e</td>
+      <td>e</td>
+      <td>i</td>
+      <td>ü</td>
+   </tr>
+   <tr>
+      <td>通用拼音（台湾）</td>
+      <td>a</td>
+      <td>o</td>
+      <td>e</td>
+      <td>e</td>
+      <td>i</td>
+      <td>yu</td>
+   </tr>
+</table>
