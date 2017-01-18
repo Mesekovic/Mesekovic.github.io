@@ -14,8 +14,9 @@ tags:
 ---
 
 # 辅音（韵母）
+<br>
 
-1. 塞音与边音 
+* 塞音与边音 
 <table> 
    <tr>
        <td>IPA</td>
@@ -42,9 +43,9 @@ tags:
         <td>l</td>
     </tr>
 </table> 
+<br>
 
-
-2. 塞音与擦音
+* 塞音与擦音
 <table>    
    <tr>    
         <td>IPA</td>
@@ -107,9 +108,9 @@ tags:
     <td>h</td>
      </tr>
 </table>
+<br>
 
-
-3. 塞擦音
+* 塞擦音
 <table>  
     <tr>
         <td>IPA</td>
@@ -148,12 +149,13 @@ tags:
         <td>ci</td>
     </tr>
 </table>
-
-
+<br>
+<br>
 
 ## 元音（声母）
+<br>
 
-1. 基本元音
+* 基本元音
 <table>
    <tr>
       <td>IPA</td>
