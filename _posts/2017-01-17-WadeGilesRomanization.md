@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "威妥玛-翟理斯式汉语（官话）拼音方案及其与汉语拼音、通用拼音之对照整理"
-subtitle:   "The differences among the Wade-Giles Romanization, Pinyin and Tongyong Pinyin"
+title:      "威妥玛-翟理斯式汉语（官话）拼音方案"
+subtitle:   "An introduction to the Wade-Giles Romanization System. "
 date:       2017-01-17
 author:     "Radosav Mesekovic"
 header-img: "img/bg2.jpg"
@@ -12,8 +12,10 @@ tags:
     - 官话
     
 ---
-
-# 辅音（韵母）
+# 简介
+威妥玛-翟理斯式汉语（官话）拼音方案是由英国著名外交学者威妥玛（Thomas Francis Wade）所创的，应用于汉语官话的罗马拼音方案。此套方案在19世纪末被收录于翟理斯（Herbert Allen Giles）的汉英词典中，并广泛适用于19世纪末直至20世纪中期中国境内官话方言片区本土专有名词的拉丁字母转译。迄今为止部分台湾、中国大陆的专有词汇依然采用该种拼写方案，如台北（Taipei）、清华大学（Tsinghua University）等。此外，其亦是研究19世纪20世纪初中国地名回译策略的重要工具之一。
+# 拼音方案
+## 辅音（韵母）
 <br>
 
 * 塞音与边音 
@@ -162,9 +164,13 @@ tags:
       <td>[ä]</td>
       <td>[ɔ]</td>
       <td>[ɛ]</td>
-      <td>[ɯʌ]</td>
+      <td>[ɤ]</td>
       <td>[i]</td>
       <td>[y]</td>
+      <td>[u]</td>
+      <td>[͡ɯ]</td>
+      <td>[ɨ]</td>
+      <td>[ɑɻ]</td>
    </tr>
    <tr>
       <td>威妥玛拼音</td>
@@ -174,6 +180,10 @@ tags:
       <td>ê/o</td>
       <td>i</td>
       <td>ü</td>
+      <td>u/w</td>
+      <td>u</td>
+      <td>ih</td>
+      <td>êrh</td>
    </tr>
    <tr>
       <td>汉语拼音（中国大陆）</td>
@@ -183,14 +193,56 @@ tags:
       <td>e</td>
       <td>i</td>
       <td>ü</td>
+      <td>u/w</td>
+      <td>i</td>
+      <td>i</td>
+      <td>er</td>
    </tr>
    <tr>
       <td>通用拼音（台湾）</td>
       <td>a</td>
       <td>o</td>
       <td>e</td>
-      <td>e</td>
+      <td>e/o</td>
       <td>i</td>
       <td>yu</td>
+      <td>u/w</td>
+      <td>ih</td>
+      <td>ih</td>
+      <td>er</td>
    </tr>
 </table>
+<br>
+
+* 独立复合元音
+<table>  
+    <tr>
+        <td>IPA</td>
+        <td>[yœ]</td>
+        <td>[iʊŋ]</td>
+        <td>[ʊŋ]</td>
+    </tr>
+    <tr>
+        <td>威妥玛拼音</td>
+        <td>üeh/yüeh</td>
+        <td>iung/yung</td>
+        <td>ung</td>
+    </tr>
+    <tr>
+        <td>汉语拼音（中国大陆）</td>
+        <td>yue</td>
+        <td>iong/yong</td>
+        <td>eng</td>
+    </tr>
+    <tr>
+        <td>通用拼音（台湾）</td>
+        <td>yue</td>
+        <td>yong</td>
+        <td>ong</td>
+    </tr>
+</table>
+其余复合元音由基本元音与辅音以及基本元音之间相互组合而成。
+
+# 参考资料
+
+
