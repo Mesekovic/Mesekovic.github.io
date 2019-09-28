@@ -89,12 +89,13 @@ featured-condition-size: 1             # A tag will be featured if the size of i
 
 
 # Friends
+<p>
 friends: [
     {
         title: "jskyzero",
         href: "https://jskyzero.github.io/"
     }
 ]
-
+<p>
   
-<a href="http://rayray.moe/">tkaray</a>
+<p><a href="http://rayray.moe/">tkaray</a></p>
