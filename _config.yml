@@ -95,3 +95,10 @@ friends: [
         href: "https://jskyzero.github.io/"
     }
 ]
+
+friends: [
+    {
+        title: "tkaray",
+        href: "https://rayray.moe/"
+    }
+]
